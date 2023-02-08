@@ -1,6 +1,4 @@
 # ABSOLUT-DISASTER
 projet s2
 
-
-test
-retest
+Importation des tiles fondation / creation du personnage et premier script de déplacement.
